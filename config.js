@@ -16,5 +16,4 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'hihihi.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/biubiubiu34
 }
